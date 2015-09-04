@@ -39,6 +39,5 @@ public class BroadcastReceiver1 extends BroadcastReceiver {
 
     public interface receiver1Listener {
         public void method1(String str);
-
     }
 }
